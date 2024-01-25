@@ -1,4 +1,4 @@
-"# perkinson-disease_ML" 
+"# parkinson-disease_ML" 
 Parkinson's Disease is a neurogenerative disorder that occurs in the case of elderly people. the
 basic symptoms include like Tremor or rhythmic shaking, which usually begins in a limb, often
 the hands or fingers, slowed movement (bradykinesia), rigid muscles, impaired posture, and
